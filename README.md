@@ -19,7 +19,7 @@ This project is designed to practice responsive layouts, utility-first CSS (Tail
 
 *(Add a screenshot image here if you have)*  
 Example:  
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 ---
 
@@ -44,6 +44,6 @@ Clean code structure for easy customization
 
 ## 📌 Live Demo  
 
-👉 [View Live Project](https://your-deployed-project-link.vercel.app)
+👉 [View Live Project](https://razor-pay-clone-xi-one.vercel.app/)
 
 
